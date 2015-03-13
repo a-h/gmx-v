@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GmxVCount", "GmxVCount\GmxVCount.csproj", "{8C8E5364-A484-492D-9952-AEA99B91B0C3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GmxVCount.Tests", "GmxVCount.Tests\GmxVCount.Tests.csproj", "{D7AAC427-CFA0-4545-8B79-94A11BD58F8A}"
